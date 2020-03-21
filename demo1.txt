@@ -1,0 +1,4 @@
+git practice
+agenda:
+1. create a new text file
+2. push it to a demo git repo following all steps
